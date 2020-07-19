@@ -33,10 +33,6 @@ name\Scripts\activate
 * [Selenium](https://www.selenium.dev/)
 * [Chromedriver](https://chromedriver.chromium.org/)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
