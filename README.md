@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 To use this application, you must first have chromewebdriver downloaded. Make sure you download the version corresponding with the chrome version you are currently using which can be found in your chrome setttings. Then change the line from the code below to the link to your webdriver.
 
 ```
-Give examples
+self.driver = webdriver.Chrome('--chromedriver file location--')
 ```
 
 You must also have selenium installed
