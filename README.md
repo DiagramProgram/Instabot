@@ -1,3 +1,5 @@
+**Note: Instagram has likey changed their front-end since this program was created, so the XML needs to be updated and this program likely doesn't work anymore as a result. (I am working on am update!)
+
 # Instagram Bot
 
 Automated instagram bot created in python using selenium which gathers data from your profile such as followers, following, etc and compares data; returning the final outcome of the data collection to the users in a CSV formatted list.
