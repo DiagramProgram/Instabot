@@ -1,4 +1,4 @@
-**Note: Instagram has likey changed their front-end since this program was created, so the XML needs to be updated and this program likely doesn't work anymore as a result. (I am working on am update!)
+**Note: Instagram has likley changed their front-end since this program was created, so the XML needs to be updated. As a result, this program likely doesn't work anymore and would require some XML tag reference changes to function again. (I am working on an update!)
 
 # Instagram Bot
 
